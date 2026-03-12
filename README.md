@@ -1,9 +1,8 @@
 
 Fourth-year computer science and biochemistry student @nyuniversity. Solving RNA structures @nyuchemistry @jonesylab [(check out my recent paper!)](https://academic.oup.com/nar/article/53/7/gkaf290/8114316). 🧪 Instructor @ulcnyu.
 
-I also like to build things:
 
-## Current projects
+## Tinkering with stuff:
 
 ### [phosphor](https://github.com/ethanarnold/phosphor)
 AI tool that surfaces research opportunities by matching a lab's capabilities (equipment, expertise, past work) against emerging directions extracted from scientific literature. Ranks by feasibility and alignment, generates grounded protocols. Built with FastAPI, React, PostgreSQL + pgvector, and LiteLLM. *In development*
