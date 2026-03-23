@@ -4,6 +4,9 @@ Fourth-year computer science and biochemistry student @nyuniversity. Solving RNA
 
 ## Tinkering with stuff:
 
+### [CassetteAI](https://github.com/ethanarnold/cassetteai) Deployed: ([cassetteai.dev](https://cassetteai.dev/))
+A full-stack AI platform that integrates multiple genomics models on serverless GPUs with Claude-powered orchestration to translate natural language into tissue-specific gene therapy regulatory elements. Real-time streaming and interactive cassette/heatmap visualizations. Built with Modal, React, FastAPI
+
 ### [phosphor](https://github.com/ethanarnold/phosphor)
 AI tool that surfaces research opportunities by matching a lab's capabilities (equipment, expertise, past work) against emerging directions extracted from scientific literature. Ranks by feasibility and alignment, generates grounded protocols. Built with FastAPI, React, PostgreSQL + pgvector, and LiteLLM. *In development*
 
