@@ -1,8 +1,12 @@
 
-Fourth-year computer science and biochemistry student @nyuniversity. Solving RNA structures @nyuchemistry @jonesylab [(check out my recent paper!)](https://academic.oup.com/nar/article/53/7/gkaf290/8114316). 🧪 Instructor @ulcnyu.
+fourth-year CS and biochem @nyuniversity. 
+
+currently: solving RNA structures with machines and experiments @nyuchemistry @jonesylab [(paper on RNA secondary structure)](https://academic.oup.com/nar/article/53/7/gkaf290/8114316).
+
+i also teach at @ulcnyu :)
 
 
-## Tinkering with stuff:
+## side projects / tinkering / agentmaxxing
 
 ### [CassetteAI](https://github.com/ethanarnold/cassetteai) 
 #### Deployed at [cassetteai.dev](https://cassetteai.dev/)!
