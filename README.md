@@ -8,15 +8,15 @@ i also teach at @ulcnyu :)
 
 ## side projects / tinkering / agentmaxxing
 
-### [CassetteAI](https://github.com/ethanarnold/cassetteai) 
+### [CassetteAI](https://github.com/ethanarnold/cassetteai) — Toward safer gene therapies
 #### Deployed at [cassetteai.dev](https://cassetteai.dev/)!
-A full-stack AI platform that integrates multiple genomics models on serverless GPUs with Claude-powered orchestration to translate natural language into tissue-specific gene therapy regulatory elements. Real-time streaming and interactive cassette/heatmap visualizations. Built with Modal, React, FastAPI
+No-code DNA regulatory element designer. CassetteAI is a full-stack AI webapp that deploys multiple genomics models on serverless GPUs to translate natural language into tissue-specific enhancers. Real-time streaming and interactive cassette/heatmap visualizations. Modal, React, FastAPI, Anthropic API.
 
-### [phosphor](https://github.com/ethanarnold/phosphor)
-AI tool that surfaces research opportunities by matching a lab's capabilities (equipment, expertise, past work) against emerging directions extracted from scientific literature. Ranks by feasibility and alignment, generates grounded protocols. Built with FastAPI, React, PostgreSQL + pgvector, and LiteLLM. *In development*
+### [phosphor](https://github.com/ethanarnold/phosphor) — Toward faster discovery
+AI-native research opportunity platform. Phosphor cross-examines a user's lab equipment, expertise, and past work against emerging directions extracted from scientific literature to surface actionable research directions. Ranks by feasibility and alignment. FastAPI, React, PostgreSQL + pgvector, LiteLLM. *In development*
 
-### [GitGood](https://github.com/ethanarnold/GitGood)
-Interactive CLI that teaches GitHub Flow through hands-on simulation. Students practice real `git` and `gh` commands in a virtual repository with progressive lessons and real-time feedback with no risk to actual repos. AI tutor feature incoming. Currently: Python, Rich, prompt-toolkit.
+### [GitGood](https://github.com/ethanarnold/GitGood) — Toward personalized mentorship at scale
+Interactive CLI tutor that teaches GitHub Flow with a personalized, hands-on approach. Students practice real `git` and `gh` commands in a virtual repository with progressive lessons and real-time feedback with no risk to actual repos. Python, Rich, prompt-toolkit, Anthropic API.
 
-### [toughcrowd](https://github.com/ethanarnold/toughcrowd)
-Presentation practice tool that simulates a tough audience in real time. Uses live speech-to-text and slide context to generate realistic questions as you speak. React + TypeScript, powered by the Anthropic API.
+### [toughcrowd](https://github.com/ethanarnold/toughcrowd) — Toward confidence under pressure
+Presentation practice tool that simulates a tough audience in real time. Uses live speech-to-text and slide context to generate realistic questions as you speak. React, TypeScript, Anthropic API.
