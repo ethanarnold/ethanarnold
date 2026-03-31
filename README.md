@@ -11,6 +11,7 @@ And I'm still going
 My stuff:
 
 - [Blog](https://ephemeralblogcom.wordpress.com/)
+- [Substack](https://substack.com/@ethanarnold)
 - [Publications](https://orcid.org/0009-0009-2683-5384)
 - [LinkedIn](https://www.linkedin.com/in/picomolar/)
 - [Twitter](https://x.com/picomolar)
