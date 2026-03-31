@@ -2,7 +2,9 @@ Hey there
 
 Welcome to my GitHub
 
-I fell in love with science as a little kid (thanks, Mom and Dad)
+I fell in love with science earlier than I can remember (thanks, Mom and Dad)
+
+Learned to code playing Minecraft with my friends in 2014
 
 And I'm still going
 
