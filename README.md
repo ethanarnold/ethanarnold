@@ -14,5 +14,5 @@ My stuff:
 - [Substack](https://substack.com/@ethanarnold)
 - [Publications](https://orcid.org/0009-0009-2683-5384)
 - [LinkedIn](https://www.linkedin.com/in/picomolar/)
-- [Twitter](https://x.com/picomolar)
+- [Twitter/X](https://x.com/picomolar)
 - [Spotify](https://open.spotify.com/user/b1tw1se?si=9b66ce476246426c)
