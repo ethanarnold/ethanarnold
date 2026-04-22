@@ -10,6 +10,7 @@ And I'm still going
 
 My stuff:
 
+- [Website](https://ethanarnold.dev/)
 - [Blog](https://ephemeralblogcom.wordpress.com/)
 - [Substack](https://substack.com/@ethanarnold)
 - [Publications](https://orcid.org/0009-0009-2683-5384)
